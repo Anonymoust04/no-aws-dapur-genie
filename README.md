@@ -1,6 +1,6 @@
 # 🍽️ DapurGenie 
 
-**Deployment Link:** [https://no-aws-dapur-genie-eruw-git-main-ztee0007s-projects.vercel.app/](https://no-aws-dapur-genie-eruw-git-main-ztee0007s-projects.vercel.app/)
+**Deployment Link:** [https://no-aws-dapur-genie-eruw.vercel.app/](https://no-aws-dapur-genie-eruw.vercel.app/)
 
 **"When the shutters close, the kitchen still answers."**
 
