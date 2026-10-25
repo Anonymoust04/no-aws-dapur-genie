@@ -56,7 +56,7 @@ Try the [**Bangi Outlet Demo**](#) — ask in BM, EN, or CN:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dapurgenie.git
+git clone https://github.com/Anonymoust04/no-aws-dapur-genie.git
 cd dapurgenie
 
 
