@@ -1,4 +1,4 @@
-# 🍽️ DapurGenie 
+# 🍽️ DapurGenie (Without Using AWS Technologies)
 
 **Deployment Link:** [https://no-aws-dapur-genie-eruw.vercel.app/](https://no-aws-dapur-genie-eruw.vercel.app/)
 
@@ -57,7 +57,7 @@ Try the [**Bangi Outlet Demo**](#) — ask in BM, EN, or CN:
 
 ```bash
 git clone https://github.com/Anonymoust04/no-aws-dapur-genie.git
-cd dapurgenie
+cd no-aws-dapur-genie
 
 
 
